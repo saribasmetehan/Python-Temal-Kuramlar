@@ -1,0 +1,7 @@
+Kaynaklar:
+https://www.w3schools.com
+Mustafa Murat Coşkun
+Vahit Keskin
+
+Amaç:
+Python'da temel kullanımları en baştan öğrenenler, pratik bir şekilde tekrar etmek isteyenler ve eğitmenlerin direkt üzerinde bölümlere ayrılmış bir şekilde kullanabilecekleri bir kod dizini görmemiştim, ben yaptım. 
